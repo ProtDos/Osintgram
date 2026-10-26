@@ -1,0 +1,3 @@
+# igscope - minimal dependencies
+instagrapi>=2.0      # the one data backend (your own account's session)
+geopy>=2.0.0         # optional: only needed for the 'locations' capability
